@@ -1,0 +1,21 @@
+<svg width="64" height="64" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#23090b"/>
+  <defs>
+    <linearGradient id="petal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f6eee0"/>
+      <stop offset="100%" stop-color="#c9a227"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g transform="rotate(0 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(45 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(90 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(135 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(180 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(225 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(270 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+    <g transform="rotate(315 60 60)"><path d="M60 60 C 55 40, 55 20, 60 8 C 65 20, 65 40, 60 60 Z" fill="url(#petal)" opacity="0.92"/></g>
+  </g>
+  <circle cx="60" cy="60" r="9" fill="#6b1e23"/>
+  <circle cx="60" cy="60" r="5" fill="#e2892f"/>
+</svg>
